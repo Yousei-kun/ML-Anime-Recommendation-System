@@ -77,7 +77,7 @@ Dataset dapat didownload [disini](https://www.kaggle.com/hernan4444/anime-recomm
 
 - **Dataset 1 (untuk userrating dari anime saja)** terdiri dari 109.224.747 baris/record data, dan setiap record memiliki 5 kolom data. (Dimensi dari dataset adalah **109224747 rows x 5 columns**). Berikut adalah screenshot dari dataframe overview.
 	
-	  ![](img/pre-df-raww.png)
+![](img/pre-df-raww.png)
 
 - Fitur pada dataset 1 (user_rating anime) (Pendekatan Linguistik):
     - **Demografi user:**
